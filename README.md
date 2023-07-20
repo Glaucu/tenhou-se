@@ -20,3 +20,6 @@ oselii.json|Osamu_Saitou|Eliisa
 usaya.json|Usumi_Ishihara|Ayako_Morikawa
 loli.json|Anju_Suzumiya|Momo_Hina
 nako.json|ako_atarashi|Nana_Shiraishi
+naden.json|Ren_Kisaragi|Nadeshiko
+miqi.json|Qi_Xi|Mihoko_Fukuji
+nami.json|Miyuki_Shirogane|Nanaha_Onodera
