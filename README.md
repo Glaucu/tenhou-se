@@ -14,3 +14,4 @@ code_geasse.json|Lelouch_Lamperouge|C.C
 mjs.json|Ichihime|Miki_Nikaidou
 saki.json|Saki_Miyanaga|Nodoka_Haramura
 oselii.json|Osamu_Saitou|Eliisa
+usaya.json|Usumi_Ishihara|Ayako_Morikawa
