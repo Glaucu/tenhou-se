@@ -11,4 +11,5 @@ Name|  M  |  F
 :---|:---:|-----:
 ai_hayasaka-se.json|ai_hayasaka|ai_hayasaka
 yui_yagi-se.json|yui_yagi|yui_yagi
+code_geasse.json|Lelouch_Lamperouge|C.C
 
