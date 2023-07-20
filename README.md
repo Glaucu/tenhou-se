@@ -15,3 +15,4 @@ mjs.json|Ichihime|Miki_Nikaidou
 saki.json|Saki_Miyanaga|Nodoka_Haramura
 oselii.json|Osamu_Saitou|Eliisa
 usaya.json|Usumi_Ishihara|Ayako_Morikawa
+loli.json|Anju_Suzumiya|Momo_Hina
