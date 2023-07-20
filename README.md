@@ -24,3 +24,7 @@ naden.json|Ren_Kisaragi|Nadeshiko
 miqi.json|Qi_Xi|Mihoko_Fukuji
 nami.json|Miyuki_Shirogane|Nanaha_Onodera
 riuqi.json|Qing_Luan|Riu_Kujou
+miry.json|Midari_Ikishima|Mary_Saotome
+nayaki.json|Natsuki_Shinomiya|Ayane_Kisaragi
+giht.json|Reina_Nanami|Mai_Aihara
+natmi.json|Natsuhiko_Takigawa|Mirai
