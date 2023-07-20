@@ -28,3 +28,4 @@ miry.json|Midari_Ikishima|Mary_Saotome
 nayaki.json|Natsuki_Shinomiya|Ayane_Kisaragi
 giht.json|Reina_Nanami|Mai_Aihara
 natmi.json|Natsuhiko_Takigawa|Mirai
+tesam.json|Sammir|Teru_Miyanaga
