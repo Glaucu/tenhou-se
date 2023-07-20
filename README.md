@@ -23,3 +23,4 @@ nako.json|ako_atarashi|Nana_Shiraishi
 naden.json|Ren_Kisaragi|Nadeshiko
 miqi.json|Qi_Xi|Mihoko_Fukuji
 nami.json|Miyuki_Shirogane|Nanaha_Onodera
+riuqi.json|Qing_Luan|Riu_Kujou
