@@ -5,8 +5,7 @@
 4. Uncheck the "Default SE" option and enter URL-address in the empty field: https://raw.githubusercontent.com/Glaucu/tenhou-se/main/[json_file_name].json
 5. After adjusting the volume, exit the settings
 
-### __Detailed list of symbols corresponding to SE in each group__
-***
+## __Detailed list of symbols corresponding to SE in each group__
 Name|  M  |  F  
 :---|:---:|-----:
 ai_hayasaka-se.json|ai_hayasaka|ai_hayasaka
