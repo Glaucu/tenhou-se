@@ -1,5 +1,4 @@
 # __Instructions on how to change the sound__
-***
 1. Go to the site: https://tenhou.net/3/ and log in to your Tenhou account.
 2. Go to the settings (in the upper right corner).
 3. Turn the page to the SE settings.
