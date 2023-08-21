@@ -31,4 +31,4 @@ natmi.json|Natsuhiko_Takigawa|Mirai
 tesam.json|Sammir|Teru_Miyanaga
 efui.json|Ein|Fu_Ji
 hinf.json|Hideki_Akechi|Hinata_Takanashi
-fuua.json|A-34|Fuyumi_Shinomiya
+fuua.json|A-37|Fuyumi_Shinomiya
