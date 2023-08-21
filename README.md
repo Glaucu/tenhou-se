@@ -1,6 +1,6 @@
 # __Instructions on how to change the sound__
 1. We open the voiceover we need with the .json extension.
-2. In the upper right corner above the code, click on Raw.
+2. In the upper right corner above the code, click on "Raw".
 3. Copy the URL-address: https://raw.githubusercontent.com/Glaucu/tenhou-se/main/[json_file_name].json
 4. Go to the site: https://tenhou.net/3/ and log in to your Tenhou account.
 5. Go to the settings (in the upper right corner).
