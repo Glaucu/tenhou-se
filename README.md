@@ -34,3 +34,4 @@ hinf.json|Hideki_Akechi|Hinata_Takanashi
 fuua.json|A-37|Fuyumi_Shinomiya
 achi.json|Akagi|Chihori_Terasaki
 iwahq.json|Iwao_Washizu|Hisa_Takei
+schjn.json|Hibiki_Himekawa|Chiori_Mikami
