@@ -33,3 +33,4 @@ efui.json|Ein|Fu_Ji
 hinf.json|Hideki_Akechi|Hinata_Takanashi
 fuua.json|A-37|Fuyumi_Shinomiya
 achi.json|Akagi|Chihori_Terasaki
+iwahq.json|Iwao_Washizu|Hisa_Takei
